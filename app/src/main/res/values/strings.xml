@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+
+    <string name="tvStart">Search and explore new homes</string>
+    <string name="btnStart">Sign in</string>
+
+    <string name="tvWelcome">Welcome %s\n(Using version 1.0)</string>
+    <string name="tvWelcomeInfo">This app belongs to Dingo.\nYou can explore new homes thanks to the 3D image virtualisation, try it for free.</string>
+    <string name="btnWelcomeCto">Contact us</string>
+</resources>
